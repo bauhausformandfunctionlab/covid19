@@ -1,5 +1,5 @@
-Project Files for the Bauhaus Laser Cut Visor
-Co-developed by Prof. Andreas Mühlenberend & Vertr.-Prof. Jason Reizner
+Project Files for the Bauhaus Laser Cut Visor<br />
+Co-developed by Prof. Andreas Mühlenberend & Vertr.-Prof. Jason Reizner<br />
 Bauhaus-Universität Weimar
 
 This visor is intended to be produced from 0.5mm PETG film.

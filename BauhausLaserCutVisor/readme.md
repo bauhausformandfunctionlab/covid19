@@ -12,7 +12,7 @@ For PET material from the roll, cutting in a single pass using the provided temp
 
 When working with PETG or PET, a sufficient exhaust extractor and filter system is necessary.
 
-Preliminary tests indicate that PETG is resistant to disinfection agents including isopropyl alcohol, quaternary ammonium compounds and hydrogen peroxide solution. Note: PET/PETG components are *not* dishwasher safe at temperatures above 30°C.
+Preliminary tests indicate that PETG is resistant to disinfection agents including isopropyl alcohol, quaternary ammonium compounds and hydrogen peroxide solution. Note: PET/PETG components are *not* dishwasher safe.
 
 We strongly urge everyone to adhere to the strictest hygiene measures and to consult with local authorities before beginning production or distribution. 
 

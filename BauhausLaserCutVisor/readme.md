@@ -8,7 +8,7 @@ This visor is intended to be produced from 0.5mm PETG film. In situations where 
 For flat PETG sheets, cutting in two passes is recommended using the highest speed and lowest power settings possible.
 We are currently cutting in two passes on a 120W Epilog CO2 system at 100s/70p/50f with power compensation enabled.
 
-For PET material from the roll, cutting in a single pass using the provided templates marked 'with BRIDGES' will ensure correct registration of the work pieces.  
+For PET material from the roll, cutting in a single pass using the provided templates marked 'with BRIDGES' will ensure correct registration of the work pieces. Since this material generally is not coated with protective film, it is recommended to remove cutting residue using alcohol.
 
 When working with PETG or PET, a sufficient exhaust extractor and filter system is necessary.
 

@@ -10,8 +10,6 @@ For flat PETG sheets coated with protective film, cutting in two passes is recom
 
 For PET material from the roll, cutting in a single pass using the provided templates marked 'with BRIDGES' will ensure correct registration of the work pieces. Since this material generally is not coated with protective film, it is recommended to remove cutting residue using alcohol.
 
-On a low-cost 40W Lasercutter (tested on Beambox Pro) we have achieved good results with uncoated PET from a roll, cutting in a single pass at 30mm/sec and 63% Power.
-
 When laser cutting PETG or PET, a sufficient exhaust extractor and filter system is necessary.
 
 Preliminary tests indicate that PETG is resistant to disinfection agents including isopropyl alcohol, quaternary ammonium compounds and hydrogen peroxide solution. Note: PET/PETG components are *not* dishwasher safe.

@@ -21,3 +21,6 @@ We strongly urge everyone to adhere to the strictest hygiene measures and to con
 While this design is being shared in good faith, the Bahaus Form + Function Lab and Bauhaus-Universität Weimar do not guarantee the suitability for use, merchantability, or fitness for particular purpose of the this visor, and do not assume liability arising from their production or use. This design is not intended for production or use as a medical device.
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+
+![BauhausUniVisor](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Lasercut.jpg)

@@ -1,5 +1,6 @@
 **Production Files for the BauhausUniVisor**<br />
 Co-developed by Prof. Andreas Mühlenberend & Vertr.-Prof. Jason Reizner<br />
+Production optimizations by Kristian Gohlke<br />
 Bauhaus-Universität Weimar<br />
 [https://bffl.io](https://bffl.io)
 

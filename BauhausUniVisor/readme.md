@@ -23,4 +23,8 @@ While this design is being shared in good faith, the Bahaus Form + Function Lab 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 
-![BauhausUniVisor](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Lasercut.jpg)
+![BauhausUniVisor](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/buv-3.jpg)
+
+
+
+![BauhausUniVisor](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/buv-5.jpg)

@@ -24,3 +24,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
 
 ![BauhausUniVisor](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/buv-3.jpg)
+
+
+
+![BauhausUniVisor](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/buv-5.jpg)

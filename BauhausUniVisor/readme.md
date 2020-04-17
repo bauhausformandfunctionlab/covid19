@@ -4,11 +4,11 @@ Production optimizations by Kristian Gohlke<br />
 Bauhaus-Universität Weimar<br />
 [https://bffl.io](https://bffl.io)
 
-one material
-one process
-one minute
+one material<br />
+one process<br />
+one minute<br />
 
-#bauhausunivisor
+#bauhausunivisor<br />
 #oneminutevisor
 
 This visor is intended to be produced from 0.5mm PETG film. In situations where PETG is not available, PET film can be substituted when sufficient surface quality and optical clarity can be guaranteed.

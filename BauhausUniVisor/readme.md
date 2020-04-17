@@ -4,7 +4,16 @@ Production optimizations by Kristian Gohlke<br />
 Bauhaus-Universität Weimar<br />
 [https://bffl.io](https://bffl.io)
 
+one material
+one process
+one minute
+
+#bauhausunivisor
+#oneminutevisor
+
 This visor is intended to be produced from 0.5mm PETG film. In situations where PETG is not available, PET film can be substituted when sufficient surface quality and optical clarity can be guaranteed.
+
+With sufficient laser power and optimization, one visor can be cut in one minute.
 
 For flat PETG sheets coated with protective film, cutting in two passes is recommended using the highest speed and lowest power settings possible. We are currently cutting in two passes on a 120W Epilog CO2 system at 100s/70p/50f with power compensation enabled.
 

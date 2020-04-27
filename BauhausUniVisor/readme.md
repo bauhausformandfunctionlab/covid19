@@ -20,7 +20,7 @@ Important Notes ('Beipackzettel', German):
 Assembly Instructions / Montageanleitung:
 [BauhausUniVisor_Assembly_Guide.pdf](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Assembly_Guide.pdf)
 
-**HINWEIS:** Visiere sind **kein** Ersatz für eine Mund-Nasenbedeckung!
+**HINWEIS:** Visiere sind **kein** Ersatz für eine Mund-Nasenbedeckung!<br />
 **NOTE:** Visors are **not** a replacement for cloth face coverings or surgical face masks!  
 
 This visor is intended to be produced from 0.5mm PETG film. In situations where PETG is not available, PET film can be substituted when sufficient surface quality and optical clarity can be guaranteed.

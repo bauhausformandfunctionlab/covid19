@@ -22,7 +22,7 @@ Important Notes ('Beipackzettel', German):
 Assembly Instructions / Montageanleitung:
 [BauhausUniVisor_Assembly_Guide.pdf](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Assembly_Guide.pdf)
 
-**Assembly Video:**
+**Assembly Video:**<br />
 [![The BauhausUniVisor - COVID19 laser cut face shield // One material, One process, One minute](https://img.youtube.com/vi/4FKMDfHXxKk/0.jpg)](https://www.youtube.com/watch?v=4FKMDfHXxKk)
 
 **HINWEIS:** Visiere sind **kein** Ersatz für eine Mund-Nasenbedeckung!<br />

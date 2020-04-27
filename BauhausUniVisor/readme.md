@@ -15,8 +15,8 @@ one minute<br />
 [BauhausUniVisor_2020_04_16_VARIANT_A_and_VARIANT_B_combined_NO_BRIDGES.pdf](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_2020_04_16_VARIANT_A_and_VARIANT_B_combined_NO_BRIDGES.pdf)
 
 **PRINT these Files and distribute them with the Visors**<br />
-Important Notes ('Beipackzettel', German):
-<br />[BauhausUniVisor_Beipackzettel_DE.pdf](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Beipackzettel_DE.pdf)
+Important Notes ('Beipackzettel', German):<br />
+[BauhausUniVisor_Beipackzettel_DE.pdf](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Beipackzettel_DE.pdf)<br />
 Assembly Instructions / Montageanleitung:<br />
 [BauhausUniVisor_Assembly_Guide.pdf](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Assembly_Guide.pdf)
 

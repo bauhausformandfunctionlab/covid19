@@ -2,7 +2,7 @@
 Co-developed by Prof. Andreas Mühlenberend & Vertr.-Prof. Jason Reizner<br />
 Production optimizations by Kristian Gohlke<br />
 Bauhaus-Universität Weimar<br />
-[https://bffl.io](https://bffl.io)
+[https://bffl.io](https://bffl.io/)
 
 one material<br />
 one process<br />
@@ -11,11 +11,14 @@ one minute<br />
 #bauhausunivisor<br />
 #oneminutevisor
 
-MAIN PRODUCTION FILE: [https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_2020_04_16_VARIANT_A_and_VARIANT_B_combined_NO_BRIDGES.pdf] (BauhausUniVisor_2020_04_16_VARIANT_A_and_VARIANT_B_combined_NO_BRIDGES.pdf)
+**MAIN PRODUCTION FILE:**<br />
+[https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_2020_04_16_VARIANT_A_and_VARIANT_B_combined_NO_BRIDGES.pdf](BauhausUniVisor_2020_04_16_VARIANT_A_and_VARIANT_B_combined_NO_BRIDGES.pdf)
 
-PRINT these Files and distribute them with the Visors:
-INSTRUCTIONS (BEIPACKZETTEL, German): https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Beipackzettel_DE.pdf (BauhausUniVisor_Beipackzettel_DE.pdf)
-ASSEMBLY INSTRUCTIONS: [https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Assembly_Guide.pdf](BauhausUniVisor_Assembly_Guide.pdf)
+**PRINT these Files and distribute them with the Visors**<br />
+INSTRUCTIONS (BEIPACKZETTEL, German):
+<br />[https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Beipackzettel_DE.pdf](BauhausUniVisor_Beipackzettel_DE.pdf)
+ASSEMBLY INSTRUCTIONS:<br />
+[https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Assembly_Guide.pdf](BauhausUniVisor_Assembly_Guide.pdf)
 
 This visor is intended to be produced from 0.5mm PETG film. In situations where PETG is not available, PET film can be substituted when sufficient surface quality and optical clarity can be guaranteed.
 

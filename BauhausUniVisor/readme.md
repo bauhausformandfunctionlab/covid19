@@ -11,6 +11,8 @@ one minute<br />
 #bauhausunivisor<br />
 #oneminutevisor
 
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License] (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 **MAIN PRODUCTION FILE:**<br />
 [BauhausUniVisor_2020_04_16_VARIANT_A_and_VARIANT_B_combined_NO_BRIDGES.pdf](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_2020_04_16_VARIANT_A_and_VARIANT_B_combined_NO_BRIDGES.pdf)
 
@@ -21,7 +23,9 @@ Assembly Instructions / Montageanleitung:
 [BauhausUniVisor_Assembly_Guide.pdf](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Assembly_Guide.pdf)
 
 **HINWEIS:** Visiere sind **kein** Ersatz für eine Mund-Nasenbedeckung!<br />
-**NOTE:** Visors are **not** a replacement for cloth face coverings or surgical face masks!  
+**NOTE:** Face Shield Visors are **not** a replacement for cloth face coverings or surgical face masks!  
+
+[![The BauhausUniVisor - COVID19 laser cut face shield // One material, One process, One minute](https://img.youtube.com/vi/4FKMDfHXxKk/0.jpg)](https://www.youtube.com/watch?v=4FKMDfHXxKk)
 
 This visor is intended to be produced from 0.5mm PETG film. In situations where PETG is not available, PET film can be substituted when sufficient surface quality and optical clarity can be guaranteed.
 
@@ -39,7 +43,7 @@ Preliminary tests indicate that PETG is resistant to disinfection agents includi
 
 We strongly urge everyone to adhere to the strictest hygiene measures and to consult with local authorities before beginning production or distribution. 
 
-While this design is being shared in good faith, the Bahaus Form + Function Lab and Bauhaus-Universität Weimar do not guarantee the suitability for use, merchantability, or fitness for particular purpose of the this visor, and do not assume liability arising from their production or use. This design is not intended for production or use as a medical device.
+While this design is being shared in good faith, the Bauhaus Form + Function Lab and Bauhaus-Universität Weimar do not guarantee the suitability for use, merchantability, or fitness for particular purpose of the this visor, and do not assume liability arising from their production or use. This design is not intended for production or use as a medical device.
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 

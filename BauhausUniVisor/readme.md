@@ -11,7 +11,7 @@ one minute<br />
 #bauhausunivisor<br />
 #oneminutevisor
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) and can be used for non-commercial purposes. Get in touch with the team if you would like to manufacture larger quantities under individual conditions.
 
 **MAIN PRODUCTION FILE:**<br />
 [BauhausUniVisor_2020_04_16_VARIANT_A_and_VARIANT_B_combined_NO_BRIDGES.pdf](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_2020_04_16_VARIANT_A_and_VARIANT_B_combined_NO_BRIDGES.pdf)

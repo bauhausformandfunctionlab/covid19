@@ -22,10 +22,11 @@ Important Notes ('Beipackzettel', German):
 Assembly Instructions / Montageanleitung:
 [BauhausUniVisor_Assembly_Guide.pdf](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Assembly_Guide.pdf)
 
+**Assembly Video:**
+[![The BauhausUniVisor - COVID19 laser cut face shield // One material, One process, One minute](https://img.youtube.com/vi/4FKMDfHXxKk/0.jpg)](https://www.youtube.com/watch?v=4FKMDfHXxKk)
+
 **HINWEIS:** Visiere sind **kein** Ersatz für eine Mund-Nasenbedeckung!<br />
 **NOTE:** Face Shield Visors are **not** a replacement for cloth face coverings or surgical face masks!  
-
-[![The BauhausUniVisor - COVID19 laser cut face shield // One material, One process, One minute](https://img.youtube.com/vi/4FKMDfHXxKk/0.jpg)](https://www.youtube.com/watch?v=4FKMDfHXxKk)
 
 This visor is intended to be produced from 0.5mm PETG film. In situations where PETG is not available, PET film can be substituted when sufficient surface quality and optical clarity can be guaranteed.
 
